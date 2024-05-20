@@ -18,6 +18,7 @@ public class GameController {
                     "show information",
                     "profile change (-u|-n|-e) (.*)",
                     "profile change password -o (.*) -n (.*)",
+                    "for test"
             };
             Scanner scan = new Scanner(System.in);
             String k;
